@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FAREED DEVICE LOCK</string>
+    <string name="admin_description">مسؤول الجهاز لتشغيل وضع Kiosk على جهاز مُدار بتصريح.</string>
+</resources>
